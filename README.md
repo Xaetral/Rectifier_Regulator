@@ -1,4 +1,4 @@
-# Discrete_DRAM
+# Rectifier Regulator
 
-The goal of this project is to be able to make a piece of dynamic RAM using only discrete components.  
+Constant positive voltage output from arbitrary voltage level and polarity input.  
 ![rectifier regulator image](https://raw.githubusercontent.com/Xaetral/Rectifier_Regulator/refs/heads/main/rectifier_regulator.png "Rectifier Regulator")
